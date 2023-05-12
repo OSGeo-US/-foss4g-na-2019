@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://2019.foss4g-na.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
